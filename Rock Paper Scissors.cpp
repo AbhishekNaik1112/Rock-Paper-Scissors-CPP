@@ -65,7 +65,7 @@ int main()
 			cout << "SCISSORS BEATS PAPER.YOU LOSE" << endl;
 		}
 		else if (player == SCISSORS && computer == PAPER) {
-			cout << "SCISSORS BEATS SCISSORS.YOU WIN" << endl;
+			cout << "SCISSORS BEATS PAPER.YOU WIN" << endl;
 		}
 		else if (player == SCISSORS && computer == ROCK) {
 			cout << "ROCK BEATS SCISSORS.YOU LOSE" << endl;
