@@ -4,19 +4,18 @@ A simple rock paper scissors game made using C++ <br>
 Psuedocode is rps1.jpg and rps2.jpg <br>
 Outcome screenshots, named 'Player Picks by their I/P values' and 'Draw' have been uploaded.
 <br><br><br>
-Rock, Paper, Scissors Game:
-<br>
-Objective:<br>
+
+## Objective:<br>
 The objective of the Rock, Paper, Scissors (RPS) game is to outwit your opponent by selecting an item that defeats their chosen item.
 <br>
-Game Elements:
+## Game Elements:
 <br>
 Rock: Symbolized by a closed fist.<br>
 Paper: Represented by an open hand.<br>
 Scissors: Indicated by a fist with the index and middle fingers extended.<br>
 Rules:<br>
 
-Basic Mechanics:<br>
+## Basic Mechanics:<br>
 
 Rock crushes Scissors.<br>
 Scissors cuts Paper.<br>
